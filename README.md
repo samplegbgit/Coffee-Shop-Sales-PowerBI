@@ -38,9 +38,6 @@ The dashboard provides a consolidated view of transactions, quantity sold, reven
 
 The project uses transactional coffee shop sales data stored in an Excel workbook for analyzing sales performance across shops, branches, cities, and product categories.
 
-## Dashboard Preview
-
-[Coffee Shop Sales Dashboard](screenshot/dashboard.png)
 
 ## Project File
 
