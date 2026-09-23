@@ -47,15 +47,3 @@ The project uses transactional coffee shop sales data stored in an Excel workboo
 
 The Power BI `.pbix` file is included in this repository for further exploration of the dashboard and data model.
 
-## Project Structure
-
-Coffee-Shop-Sales-PowerBI/
-│
-├── Coffee_sales.pbix
-├── README.md
-│
-├── data/
-│   └── Coffee_Shop_Sales_Data.xlsx
-│
-└── screenshot/
-    └── dashboard.png
