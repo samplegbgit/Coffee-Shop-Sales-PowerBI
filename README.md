@@ -11,6 +11,7 @@ The dashboard provides a consolidated view of transactions, quantity sold, reven
 - Power BI
 - Data Visualization
 - Data Analysis
+- Microsoft Excel
 
 ## Dashboard Features
 
@@ -38,8 +39,23 @@ The dashboard provides a consolidated view of transactions, quantity sold, reven
 
 The project uses transactional coffee shop sales data stored in an Excel workbook for analyzing sales performance across shops, branches, cities, and product categories.
 
+## Dashboard Preview
+
+![Coffee Shop Sales Dashboard](screenshot/dashboard.png)
 
 ## Project File
 
 The Power BI `.pbix` file is included in this repository for further exploration of the dashboard and data model.
 
+## Project Structure
+
+Coffee-Shop-Sales-PowerBI/
+│
+├── Coffee_sales.pbix
+├── README.md
+│
+├── data/
+│   └── Coffee_Shop_Sales_Data.xlsx
+│
+└── screenshot/
+    └── dashboard.png
